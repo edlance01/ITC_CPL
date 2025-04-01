@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  employee.cpp
+C:\OI\ImdCpp\Labs\Lab1B\EmployeePoly\employee.cpp(13,2): warning C4102: 'std': unreferenced label
+  Employee.vcxproj -> C:\OI\ImdCpp\Labs\Lab1B\EmployeePoly\Debug\Employee.exe

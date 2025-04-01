@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\demoemp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|solutionrelative:demoemp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|solutionrelative:employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|solutionrelative:strn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC75746-BFF9-4964-AEBC-95E8FB121A7D}|Employee.vcxproj|solutionrelative:strn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strn.cpp",
+              "DocumentMoniker": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.cpp",
+              "RelativeDocumentMoniker": "strn.cpp",
+              "ToolTip": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.cpp",
+              "RelativeToolTip": "strn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T15:34:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strn.h",
+              "DocumentMoniker": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.h",
+              "RelativeDocumentMoniker": "strn.h",
+              "ToolTip": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\strn.h",
+              "RelativeToolTip": "strn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T15:31:54.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee.h",
+              "DocumentMoniker": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\employee.h",
+              "RelativeDocumentMoniker": "employee.h",
+              "ToolTip": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\employee.h",
+              "RelativeToolTip": "employee.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T15:29:34.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demoemp.cpp",
+              "DocumentMoniker": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\demoemp.cpp",
+              "RelativeDocumentMoniker": "demoemp.cpp",
+              "ToolTip": "C:\\OI\\ImdCpp\\Labs\\Lab1A\\Employee\\demoemp.cpp",
+              "RelativeToolTip": "demoemp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T15:26:08.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
