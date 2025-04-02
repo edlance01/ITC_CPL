@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-testdynm",
+      "appliesTo": "ImdCpp/Labs/Lab2/Ed_StringStack/testdynm.cpp",
+      "type": "launch"
+    }
+  ]
+}

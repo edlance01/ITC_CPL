@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplatePointer", "TemplatePointer.vcproj", "{1B90843D-F22C-40B3-B9E1-464B7518F644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B90843D-F22C-40B3-B9E1-464B7518F644}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B90843D-F22C-40B3-B9E1-464B7518F644}.Debug|Win32.Build.0 = Debug|Win32
+		{1B90843D-F22C-40B3-B9E1-464B7518F644}.Release|Win32.ActiveCfg = Release|Win32
+		{1B90843D-F22C-40B3-B9E1-464B7518F644}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

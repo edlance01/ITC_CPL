@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForwardIterator", "ForwardIterator.vcproj", "{4658AECC-EB5A-40DF-AFEB-BD22080742DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4658AECC-EB5A-40DF-AFEB-BD22080742DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4658AECC-EB5A-40DF-AFEB-BD22080742DA}.Debug|Win32.Build.0 = Debug|Win32
+		{4658AECC-EB5A-40DF-AFEB-BD22080742DA}.Release|Win32.ActiveCfg = Release|Win32
+		{4658AECC-EB5A-40DF-AFEB-BD22080742DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+OString::OString(const char *str)
+OStack::OStack(long size)
+OString::OString(const char *str)
+Employee::Employee(const char*)
+OEmployee::OEmployee(const char*)
+SalaryEmployee::SalaryEmployee(const char *, int)
+OString::OString(const char *str)
+Employee::Employee(const char*)
+OEmployee::OEmployee(const char*)
+WageEmployee::WageEmployee(const char*,int,int)
+OString::OString(const char *str)
+Employee::Employee(const char*)
+OEmployee::OEmployee(const char*)
+SalaryEmployee::SalaryEmployee(const char *, int)
+An SalaryEmployee at 0012FF00
+An WageEmployee at 0012FEBC
+An SalaryEmployee at 0012FF64
+An OStack at 0012FF40
+An OString at 0012FE9C
+m_str = I am a String
+m_length = 13
+----------------------------------------
+class SalaryEmployee.?AVSalaryEmployee@@
+Sue   1000
+class WageEmployee.?AVWageEmployee@@
+Wally   400
+class SalaryEmployee.?AVSalaryEmployee@@
+Sally   500
+class OStack.?AVOStack@@
+class OString.?AVOString@@
+nWage = 1
+nSalary = 2
+----------------------------------------
+SalaryEmployee::~SalaryEmployee()
+OEmployee::~OEmployee()
+Employee::~Employee()
+OString::~OString()
+WageEmployee::~WageEmployee()
+OEmployee::~OEmployee()
+Employee::~Employee()
+OString::~OString()
+SalaryEmployee::~SalaryEmployee()
+OEmployee::~OEmployee()
+Employee::~Employee()
+OString::~OString()
+OStack::~OStack()
+OString::~OString()

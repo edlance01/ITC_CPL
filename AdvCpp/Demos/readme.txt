@@ -1,0 +1,1 @@
+This directory is for doing in-class demonstrations led by the instructor.
